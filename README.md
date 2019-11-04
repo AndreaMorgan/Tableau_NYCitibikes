@@ -6,7 +6,7 @@ Using Tableau, this project analyzes trends in Citibike usage during the month o
 This project shows the following skills:
 <br><br>
 *Use Tableau to rapidly manipulate tables of data and create visualizations using a drag-and-drop style interface. <br>
-*Connect various data formats such as CSV and Excel Workbooks to Tableau.
+*Connect various data formats such as CSV and Excel Workbooks to Tableau.<br>
 Perform exploratory data analysis using Tableau.
 Create groups and sets.
 Create maps and use built-in U.S. Census data.
