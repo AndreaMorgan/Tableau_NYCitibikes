@@ -11,4 +11,4 @@ This project shows the following skills:
 *Create groups and sets.<br>
 *Create maps and use built-in U.S. Census data. <br>
 *Create custom calculations.<br>
-Understand what LOD calculations entail.
+*Understand what LOD calculations entail.
