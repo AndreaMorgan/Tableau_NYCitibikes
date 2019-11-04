@@ -7,7 +7,7 @@ This project shows the following skills:
 <br><br>
 *Use Tableau to rapidly manipulate tables of data and create visualizations using a drag-and-drop style interface. <br>
 *Connect various data formats such as CSV and Excel Workbooks to Tableau.<br>
-Perform exploratory data analysis using Tableau.
+*Perform exploratory data analysis using Tableau.
 Create groups and sets.
 Create maps and use built-in U.S. Census data.
 Create custom calculations.
