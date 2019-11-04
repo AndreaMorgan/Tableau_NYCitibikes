@@ -9,6 +9,6 @@ This project shows the following skills:
 *Connect various data formats such as CSV and Excel Workbooks to Tableau.<br>
 *Perform exploratory data analysis using Tableau.<br>
 *Create groups and sets.<br>
-Create maps and use built-in U.S. Census data.
+*Create maps and use built-in U.S. Census data.
 Create custom calculations.
 Understand what LOD calculations entail.
