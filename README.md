@@ -10,5 +10,5 @@ This project shows the following skills:
 *Perform exploratory data analysis using Tableau.<br>
 *Create groups and sets.<br>
 *Create maps and use built-in U.S. Census data. <br>
-*Create custom calculations.
+*Create custom calculations.<br>
 Understand what LOD calculations entail.
