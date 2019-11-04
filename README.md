@@ -26,3 +26,9 @@ This project shows the following skills:
 
 
 ## Deployment Instructions
+1. Clone this repository
+2. Download CSV data for September 2017/18/19 from source data link above
+3. Use JN file to clean and combine files
+4. Load final combined CSV to Tableau
+
+Note:  The final CSV file created is extremely large, about 1.2 GB
