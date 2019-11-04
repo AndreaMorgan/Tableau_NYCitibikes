@@ -16,3 +16,13 @@ This project shows the following skills:
 *Create maps and use built-in U.S. Census data. <br>
 *Create custom calculations.<br>
 *Understand what LOD calculations entail.<br>
+
+## Dependencies
+1. Tableau Public account
+2. Tableau Public desktop application
+3. Jupyter Notebook
+4. Python
+5. Pandas
+
+
+## Deployment Instructions
