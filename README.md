@@ -1,9 +1,9 @@
 # Tableau_NYCitibikes
 Using Tableau, this project analyzes trends in Citibike usage during the month of September in 2017, 2018 and 2019.  
 
-The final Tableau project can be viewed here: https://public.tableau.com/profile/andrea.morgan7582#!/vizhome/NYCCitibikeData/NYCCitybikeStory
+[The final Tableau project can be viewed here](https://public.tableau.com/profile/andrea.morgan7582#!/vizhome/NYCCitibikeData/NYCCitybikeStory)
 
-All source data can be found here: https://www.citibikenyc.com/system-data
+[All source data can be found here](https://www.citibikenyc.com/system-data)
 
 
 ## Skills Performed: 
@@ -16,6 +16,14 @@ This project shows the following skills:
 * Create maps and use built-in U.S. Census data. <br>
 * Create custom calculations.<br>
 * Understand what LOD calculations entail.<br>
+
+## Snapshots from Tableau
+[Visit the Project for full dynamic capabilities](https://public.tableau.com/profile/andrea.morgan7582#!/vizhome/NYCCitibikeData/NYCCitybikeStory)
+
+![Tableau1](https://github.com/AndreaMorgan/Tableau_NYCitibikes/blob/master/Images/Tableau1.png)
+![Tableau2](https://github.com/AndreaMorgan/Tableau_NYCitibikes/blob/master/Images/Tableau2.png)
+![Tableau3](https://github.com/AndreaMorgan/Tableau_NYCitibikes/blob/master/Images/Tableau3.png)
+
 
 ## Dependencies
 1. Tableau Public account
