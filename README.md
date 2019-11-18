@@ -21,7 +21,9 @@ This project shows the following skills:
 [Visit the Project for full dynamic capabilities](https://public.tableau.com/profile/andrea.morgan7582#!/vizhome/NYCCitibikeData/NYCCitybikeStory)
 
 ![Tableau1](https://github.com/AndreaMorgan/Tableau_NYCitibikes/blob/master/Images/Tableau1.png)
+
 ![Tableau2](https://github.com/AndreaMorgan/Tableau_NYCitibikes/blob/master/Images/Tableau2.png)
+
 ![Tableau3](https://github.com/AndreaMorgan/Tableau_NYCitibikes/blob/master/Images/Tableau3.png)
 
 
